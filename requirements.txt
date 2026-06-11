@@ -1,6 +1,6 @@
 numpy<2.0.0
 pandas<2.2.0
-pandas-ta
+pandas-ta-classic
 yfinance
 plotly
 streamlit
