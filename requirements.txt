@@ -1,7 +1,7 @@
-pandas
-yfinance
+numpy<2.0.0
+pandas<2.2.0
 pandas-ta
+yfinance
 plotly
-matplotlib
 streamlit
 google-genai
