@@ -1,6 +1,6 @@
 import pandas as pd
 import yfinance as yf
-import pandas_ta as ta
+import pandas_ta_classic as ta
 
 def fetch_tw_stock_data(symbol: str, period: str = "1y") -> pd.DataFrame:
     """
